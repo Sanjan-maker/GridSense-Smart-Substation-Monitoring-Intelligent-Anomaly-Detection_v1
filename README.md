@@ -46,7 +46,7 @@ While threshold-based monitoring is effective for known and well-defined conditi
 
 GridSense explores a hybrid monitoring approach:
 
-
+```text
 Electrical Measurements
         │
         ▼
